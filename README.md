@@ -123,10 +123,10 @@ Run all cells top to bottom — the notebook is self-contained and fully reprodu
 - Readiness Score should be used as an advising/triage signal, not a high-stakes gatekeeping tool (precision on "Not Placed" predictions is ~44–64%, meaning false positives occur)
 - Model performance and feature weights are dataset-specific and should be re-validated before deployment on a different student population
 
-##  License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
 ##  Author
+
+Abayomi Abiodun | https://www.linkedin.com/in/abayomi-abiodun/ 
+
+##  Project Request 
 
 Built as an end-to-end data analysis & visualization portfolio project. Contributions, issues, and pull requests are welcome!
